@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CharFinder
+comment1.params=
+comment1.target=CharFinder()
+comment2.params=
+comment2.target=void\ generateStandardText()
+comment3.params=inputChar
+comment3.target=int\ countOccurences(char)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MoodSwings
+comment1.params=
+comment1.target=MoodSwings()
+comment2.params=hum\u00F8r\ tilstand
+comment2.target=MoodSwings(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ mainMethod()
+comment4.params=
+comment4.target=void\ print()
+comment5.params=
+comment5.target=void\ random()
+comment6.params=
+comment6.target=void\ mood()
+numComments=7

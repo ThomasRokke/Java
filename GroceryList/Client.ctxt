@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Client
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Client\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Name1\ Price1\ Quantity1\ Name2\ Price2\ Quantity2
+comment1.target=void\ clientMethod(java.lang.String,\ int,\ int,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ @param\ -\ Name1\ \ -\ Navnet\ til\ f\u00F8rste\ produkt\r\n\ @param\ -\ Price1\ -\ Prisen\ til\ f\u00F8rste\ produktet\ \r\n\ @param\ -\ Name2\ \ -\ Navnet\ til\ f\u00F8rst\ produktet\r\n\ @param\ -\ Price2\ -\ Prisen\ til\ f\u00F8rste\ produktet\r\n
+numComments=2

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cat
+comment1.params=regNummer\ free\ race\ friendly\ howToPlay
+comment1.target=Cat(int,\ boolean,\ java.lang.String,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ getFriendly()
+comment3.params=friendly
+comment3.target=void\ setFriendly(boolean)
+comment4.params=
+comment4.target=java.lang.String\ getHowToPlay()
+comment5.params=howToPlay
+comment5.target=void\ setHowToPlay(java.lang.String)
+comment6.params=age
+comment6.target=void\ setAge(int)
+comment7.params=name
+comment7.target=void\ setName(java.lang.String)
+comment8.params=
+comment8.target=int\ getAge()
+comment9.params=
+comment9.target=java.lang.String\ getName()
+numComments=10

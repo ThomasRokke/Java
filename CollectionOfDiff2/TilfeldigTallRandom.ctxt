@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TilfeldigTallRandom()
+comment1.params=
+comment1.target=void\ randomNummer()
+comment2.params=antall
+comment2.target=void\ flereRandomNummer(int)
+comment3.params=
+comment3.target=void\ randomMellom1og6()
+comment4.params=max
+comment4.target=void\ random1TilInkParameter(int)
+comment5.params=min\ max
+comment5.target=void\ randomMinMax(int,\ int)
+numComments=6

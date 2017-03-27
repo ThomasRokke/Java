@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=\r\n\ Dette\ er\ en\ klokke.\ Den\ er\ en\ subklasse\ av\ Meter\ \r\n\ Den\ holder\ rede\ p\u00E5\ minste\ tidsintervall\ klokken\ kan\ m\u00E5le.\ \r\n\ Created\ by\ Thomas\ on\ 13.03.2017.\r\n
+comment1.params=regnummer\ istand\ plasseringskode\ tidsintervall
+comment1.target=Clock(java.lang.String,\ java.lang.Boolean,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=Clock()
+comment3.params=tidsintervall
+comment3.target=void\ setTidsintervall(double)
+comment4.params=
+comment4.target=double\ getTidsintervall()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

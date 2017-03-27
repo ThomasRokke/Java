@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Weight
+comment0.text=\r\n\ Denne\ vekten\ er\ en\ subklasse\ av\ Meter.\r\n\ Vi\ definerer\ hva\ som\ er\ den\ minste\ og\ st\u00F8rste\ vekten\ den\ kan\ m\u00E5le.\ \r\n\ \r\n\ Created\ by\ Thomas\ on\ 13.03.2017.\r\n
+comment1.params=regnummer\ istand\ plasseringskode\ minWeigth\ maxWeigth
+comment1.target=Weight(java.lang.String,\ java.lang.Boolean,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=Weight()
+comment3.params=minWeigth
+comment3.target=void\ setMinWeigth(double)
+comment4.params=
+comment4.target=double\ getMinWeigth()
+comment5.params=maxWeigth
+comment5.target=void\ setMaxWeigth(double)
+comment6.params=
+comment6.target=double\ getMaxWeigth()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

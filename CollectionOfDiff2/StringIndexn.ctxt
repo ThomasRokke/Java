@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ stringIndex()
+comment1.params=randomNumbers\ ant\ rand
+comment1.target=void\ method(int[],\ int,\ int)
+numComments=2

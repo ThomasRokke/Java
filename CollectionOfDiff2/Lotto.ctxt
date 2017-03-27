@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lotto
+comment1.params=
+comment1.target=Lotto()
+comment2.params=randomNumbers\ ant\ rand
+comment2.target=void\ method(int[],\ int,\ int)
+comment3.params=
+comment3.target=void\ mainMethod()
+comment4.params=randomNumbers\ ant\ rand
+comment4.target=void\ unikMethod(int[],\ int,\ int)
+comment5.params=
+comment5.target=void\ mainMethodUnik()
+numComments=6

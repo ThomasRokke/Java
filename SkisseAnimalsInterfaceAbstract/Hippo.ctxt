@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hippo
+comment1.params=regNummer\ free\ weigth\ dangerous
+comment1.target=Hippo(int,\ boolean,\ int,\ boolean)
+comment2.params=weigth
+comment2.target=void\ setWeigth(int)
+comment3.params=dangerous
+comment3.target=void\ setDangerous(boolean)
+comment4.params=
+comment4.target=int\ getWeigth()
+comment5.params=
+comment5.target=boolean\ getDangerous()
+numComments=6
