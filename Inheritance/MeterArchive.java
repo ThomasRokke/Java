@@ -135,5 +135,17 @@ public class MeterArchive {
             System.out.println(m.toString());
         }
     }
-
+    
+    /*
+    pubic ArrayList<Meter> findOutOfOrder() {
+        ArrayList<Meter> res = new ArrayList<Meter>(); 
+        for (int i = 0; i < utstyrListe.size(); i++) {
+            Meter m = utstyrListe.get(i);
+            if(!m.getIstand()) {
+                
+            }
+        }
+    }
+    */
+    
 }

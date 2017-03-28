@@ -17,17 +17,16 @@ public abstract class Meter implements Comparable <Meter> {
     String plasseringskode; 
 
 
+    public Meter(){
+        this("ukjent", false, "ukjent");  
+    }
+    
     public Meter(String regnummer, Boolean istand, String plasseringskode){
         setregnummer(regnummer);
         setIstand(istand);
         setPlasseringskode(plasseringskode);
     }
 
-    public Meter(){
-        regnummer = "default"; 
-        istand = false;
-        plasseringskode = "default"; 
-    }
     
     public int compareTo(Meter meter){
      int result = getRegnummer() .

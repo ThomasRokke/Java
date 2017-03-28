@@ -1,16 +1,16 @@
 #BlueJ class context
 comment0.target=Meter
 comment0.text=\r\n\ Klassen\ meter.\ Meter\ er\ superklassen\ til\ de\ forskjellige\ m\u00E5leinstrumentene\r\n\ i\ naturfagsundervisningen.\ \r\n\ \r\n\ Denne\ klassen\ er\ en\ abstract\ klasse,\ siden\ det\ aldri\ skal\ opprettes\ objekter\ av\ \r\n\ superklassen.\ \r\n\ \r\n\ \r\n\ \r\n\ Created\ by\ Thomas\ on\ 13.03.2017.\r\n
-comment1.params=regnummer\ istand\ plasseringskode
-comment1.target=Meter(java.lang.String,\ java.lang.Boolean,\ java.lang.String)
+comment1.params=
+comment1.target=Meter()
 comment10.params=plasseringskode
 comment10.target=void\ setPlasseringskode(java.lang.String)
 comment11.params=
 comment11.target=java.lang.String\ getPlasseringskode()
 comment12.params=
 comment12.target=java.lang.String\ toString()
-comment2.params=
-comment2.target=Meter()
+comment2.params=regnummer\ istand\ plasseringskode
+comment2.target=Meter(java.lang.String,\ java.lang.Boolean,\ java.lang.String)
 comment3.params=meter
 comment3.target=int\ compareTo(Meter)
 comment4.params=obj
